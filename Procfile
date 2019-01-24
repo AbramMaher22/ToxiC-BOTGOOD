@@ -1,1 +1,1 @@
-worker: node اسم ملف بوتك. js
+worker: node bot.js
